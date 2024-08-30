@@ -1,0 +1,5 @@
+qbit/
+__pycache__/
+*.pyc
+*.pyo
+
